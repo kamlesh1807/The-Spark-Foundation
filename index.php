@@ -21,7 +21,7 @@
       <div class="container-fluid">
       <!-- Introduction section -->
             <div class="row intro py-1">
-              <div class="col-sm-12 col-md">
+              <div class="col-sm-12 col-md bg-primary">
                 <div class="heading text-center my-5">
                 
                   <h1>SPARKS BANK</h1>
